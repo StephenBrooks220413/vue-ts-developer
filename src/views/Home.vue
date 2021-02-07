@@ -148,8 +148,9 @@ main {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height: 120vh;
-  padding-top: 40%;
+  height: auto;
+  padding-top: 50%;
+  padding-bottom: 50%;
   width: 100%;
 }
 .icon {
