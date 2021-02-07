@@ -148,7 +148,7 @@ main {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height: 70vh;
+  height: 120vh;
   padding-top: 40%;
   width: 100%;
 }
