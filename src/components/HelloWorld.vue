@@ -1,14 +1,6 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br />
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener"
-        >vue-cli documentation</a
-      >.
-    </p>
-    <h3>Installed CLI Plugins</h3>
+  <div class="container text-center">
+    <h3>I use these CLI Plugins <i class="fas fa-puzzle-piece"></i></h3>
     <ul>
       <li>
         <a
@@ -59,7 +51,7 @@
         >
       </li>
     </ul>
-    <h3>Essential Links</h3>
+    <h3>Essential Links <i class="fas fa-link"></i></h3>
     <ul>
       <li>
         <a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a>
@@ -83,7 +75,7 @@
         <a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a>
       </li>
     </ul>
-    <h3>Ecosystem</h3>
+    <h3>My Ecosystem <i class="fas fa-globe"></i></h3>
     <ul>
       <li>
         <a href="https://router.vuejs.org" target="_blank" rel="noopener"
